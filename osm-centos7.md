@@ -53,7 +53,7 @@ Add pg_config to the PATH:
 
 ### Clone, Build, and Install Mapnik 2.3.x
 <pre><code>git clone git://github.com/mapnik/mapnik
-cd maplink
+cd mapnik
 ./configure
 make && sudo make install</code></pre>
 
